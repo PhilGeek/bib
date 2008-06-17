@@ -6,7 +6,7 @@ Created by Mark Eli Kalderon 2008-06-17
 
 # Introduction
 
-A BibTeX file of philosophy papers. The BibTeX file was created using [BibDesk](http://bibdesk.sourceforge.net/). It thus has some BibDesk specific fields. Consider, for example, the following entry:
+A [BibTeX](http://www.bibtex.org/ "BibTeX") file of philosophy papers. The BibTeX file was created using [BibDesk](http://bibdesk.sourceforge.net/). It thus has some BibDesk specific fields. Consider, for example, the following entry:
 
 	@article{Martin:2008kl,
 		Author = {M. G. F. Martin},
@@ -28,6 +28,8 @@ The final field:
 	Bdsk-File-1 = {...}
 
 is BibDesk specific and functions to provide a link to an associated PDF on the local disk. These are safely ignored by BibTeX but can be stripped if you prefer.
+
+See this [blog post](http://markelikalderon.com/blog/2008/06/17/gitting-bibtex/) for the rationale for keeping a BibTeX file in an open Git repository.
 
 # Contents
 
