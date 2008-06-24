@@ -35,3 +35,7 @@ See this [blog post](http://markelikalderon.com/blog/2008/06/17/gitting-bibtex/)
 
 1. Philosophy.bib
 2. README.markdown
+
+# License
+
+<a rel="license" href="http://creativecommons.org/licenses/publicdomain/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/publicdomain/88x31.png"/></a><br/>This work is dedicated to the <a rel="license" href="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.
